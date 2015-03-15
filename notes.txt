@@ -11,10 +11,3 @@ REST URIs
 
 rest/fus/files
 rest/fus/files/{fileName}
-
-
-
-
-rest/fus/file
-rest/fus/file
-rest/fus/file
